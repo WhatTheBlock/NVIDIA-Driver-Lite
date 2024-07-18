@@ -22,7 +22,7 @@
 
 ---
 
-### Choose the version that suits you best
+### Choose the version that suits you best.
 
 #### Standard (Official functional updates have been stopped.)
 - [Win7-8.1 64bit](https://github.com/WhatTheBlock/GeForce-Driver-Lite/releases/tag/standard-474.06)
@@ -30,4 +30,4 @@
 
 #### DCH (Recommended)
 - [Win10-11 64bit](https://github.com/WhatTheBlock/GeForce-Driver-Lite/releases/tag/dch-551.46)
-- [Win10-11 64bit (Studio)](https://github.com/WhatTheBlock/GeForce-Driver-Lite/releases/tag/dch-studio-536.40)
+- [Win10-11 64bit (Studio)](https://github.com/WhatTheBlock/GeForce-Driver-Lite/releases/tag/dch-studio-560.70)
